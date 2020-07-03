@@ -1,5 +1,8 @@
-* {
+html {
   font-family: 'Merriweather', serif;
+}
+h1 {
+  font-family: 'Noto Sans', sans-serif;
 }
 .descriprion1__title {
   color: red;
@@ -14,6 +17,3 @@
   border-left: 2px solid grey;
   padding-left: 20px;
   }
-h1 {
-  font-family: 'Noto Sans', sans-serif;
-}
